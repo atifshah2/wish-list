@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role_contains">
+    <sys_user_role_contains action="INSERT_OR_UPDATE">
+        <contains display_value="admin" name="admin">2831a114c611228501d4ea6c309d626d</contains>
+        <role display_value="x_978130_wish_list.user" name="x_978130_wish_list.user">80e54365479121100519249bd36d43fb</role>
+        <sys_class_name>sys_user_role_contains</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-02-28 22:32:55</sys_created_on>
+        <sys_id>7922d3e147d121100519249bd36d43f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>admin.x_978130_wish_list.user</sys_name>
+        <sys_package display_value="Wish List" source="x_978130_wish_list">df8583e5479121100519249bd36d43b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">df8583e5479121100519249bd36d43b4</sys_scope>
+        <sys_update_name>sys_user_role_contains_7922d3e147d121100519249bd36d43f3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2023-02-28 22:32:55</sys_updated_on>
+    </sys_user_role_contains>
+</record_update>
